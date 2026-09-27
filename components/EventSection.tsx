@@ -6,6 +6,7 @@ import SectionHeading from "./SectionHeading";
 import Countdown from "./Countdown";
 import PixelButton from "./PixelButton";
 import PixelCharacter from "./PixelCharacter";
+import MapQRCode from "./MapQRCode";
 
 const DETAILS = [
   { label: "DATE", value: wedding.dateLabel },
@@ -53,7 +54,8 @@ export default function EventSection() {
             ))}
           </dl>
 
-          <div className="mt-6 flex justify-center">
+          <div className="mt-6 flex flex-col items-center gap-5">
+            <MapQRCode />
             <a
               href={wedding.event.mapsUrl}
               target="_blank"

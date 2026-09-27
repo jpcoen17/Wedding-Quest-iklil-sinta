@@ -18,9 +18,9 @@ export const wedding = {
   dateLabel: "25 November 2026",
 
   event: {
-    time: "08:00 – 12:00 WIB", // EDITABLE
+    time: "13:00 – 15:00 WIB", // EDITABLE
     venue: "Kediaman Mempelai", // EDITABLE
-    address: "Bojonegoro, Jawa Timur", // EDITABLE
+    address: "Dusun Pucanganom C RT 03 RW 03, Desa Pucanganom, Kecamatan Rongkop, Kabupaten Gunungkidul", // EDITABLE
     mapsUrl: "https://maps.app.goo.gl/7o2YY3NeU88jA65A9",
   },
 
