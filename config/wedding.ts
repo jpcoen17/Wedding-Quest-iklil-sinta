@@ -62,7 +62,7 @@ export const wedding = {
     intro: "Your presence is already the greatest gift.",
     bankAccounts: [
       {
-        bank: "BCA",
+        bank: "BNI",
         accountNumber: "2102223246",
         accountName: "Muhammad Iklil Yaumal Fithroh",
       },
