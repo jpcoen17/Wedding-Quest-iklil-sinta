@@ -20,7 +20,7 @@ export const wedding = {
   dateLabel: "25 November 2026",
 
   event: {
-    time: "13:00 – 15:00 WIB", // EDITABLE
+    time: "08:00 – 12:00 WIB", // EDITABLE
     venue: "Kediaman Mempelai", // EDITABLE
     address: "Dusun Pucanganom C RT 03 RW 03, Desa Pucanganom, Kecamatan Rongkop, Kabupaten Gunungkidul", // EDITABLE
     mapsUrl: "https://maps.app.goo.gl/7o2YY3NeU88jA65A9",
@@ -55,14 +55,14 @@ export const wedding = {
   ],
 
   // WhatsApp number used by the RSVP section. Digits only, country code first.
-  whatsappNumber: "6281234567890", // EDITABLE
+  whatsappNumber: "6285156417380", // EDITABLE
 
   // Wedding Gift — read by WeddingGift.tsx / BankCard.tsx / EWalletCard.tsx.
   gift: {
     intro: "Your presence is already the greatest gift.",
     bankAccounts: [
       {
-        bank: "BNI",
+        bank: "BCA",
         accountNumber: "2102223246",
         accountName: "Muhammad Iklil Yaumal Fithroh",
       },
