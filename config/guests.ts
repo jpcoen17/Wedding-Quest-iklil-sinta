@@ -18,7 +18,7 @@ export type Guest = {
 export const guests: Guest[] = [
   { id: "ulfa", name: "Ulfa & Suami" },
   { id: "nita", name: "Nita & Partner" },
-  { id: "ayo-ago", name: "Ayo & Ago" },
+  { id: "ayu-ago", name: "Ayu & Ago" },
   { id: "lala-iman", name: "Lala & Iman" },
   { id: "ica", name: "Ica & Suami" },
   { id: "rena", name: "Rena & Partner" },
