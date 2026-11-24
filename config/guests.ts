@@ -65,6 +65,6 @@ export const guests: Guest[] = [
   { id: "soleh", name: "Soleh" },
   { id: "choirul", name: "Cohirul & Partner" },
   { id: "roziq", name: "Roziq & Partner" },
-  { id: "Adell", name: "Adell & Partner" },
-  { id: "Arnis", name: "Arnis & Partner" },
+  { id: "adell", name: "Adell & Partner" },
+  { id: "arnis", name: "Arnis & Partner" },
 ];
